@@ -20,7 +20,7 @@
 3. **M3**：落地检查清单 + 工具链推荐  
 4. **M4**：可订阅更新 / 定制陪跑说明  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
